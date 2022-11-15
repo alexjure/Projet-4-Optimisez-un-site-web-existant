@@ -52,6 +52,14 @@ a:hover {
     padding: 50px;
 }
 
+.col-sm-12 p{
+    font-size: 22px;
+}
+
+.col-xs-12 p{
+    font-size: 19px;
+}
+
 .bloc-sm {
     padding: 20px 50px;
 }
