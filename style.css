@@ -52,7 +52,7 @@ a:hover {
     padding: 50px;
 }
 
-.col-sm-12 p{
+.text-edit{
     font-size: 22px;
 }
 
@@ -832,6 +832,7 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation-compressed.jpg");
 }
+
 
 @media (max-width: 1024px) {
     .bloc {
